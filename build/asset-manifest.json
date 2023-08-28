@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8537fe08.css",
+    "main.js": "/static/js/main.f01776ea.js",
+    "static/js/787.8227fffd.chunk.js": "/static/js/787.8227fffd.chunk.js",
+    "static/media/img2.jpg": "/static/media/img2.9dc117d66cbd1936e2ab.jpg",
+    "static/media/img3.jpg": "/static/media/img3.a7140c4e96a778be635a.jpg",
+    "static/media/img1.jpg": "/static/media/img1.2c7eb99401d0cf871c99.jpg",
+    "static/media/readytocook.jpg": "/static/media/readytocook.bc5f8982fc4b7b92fb9c.jpg",
+    "static/media/chicken.png": "/static/media/chicken.d72c8124d5af0df983c0.png",
+    "static/media/coldcuts.jpg": "/static/media/coldcuts.9c9148e6b2210dd6089b.jpg",
+    "static/media/fish&seafood.jpg": "/static/media/fish&seafood.8014cf1fea00f5586530.jpg",
+    "static/media/mutton.jpg": "/static/media/mutton.6dd519b414c6331aded9.jpg",
+    "static/media/countrychicken.jpg": "/static/media/countrychicken.dd6b5a37333786df5f60.jpg",
+    "static/media/exoticmeats.jpg": "/static/media/exoticmeats.e87c796e1488461a1180.jpg",
+    "static/media/bulkproduct.jpg": "/static/media/bulkproduct.c1255961bdb3a69628a6.jpg",
+    "static/media/egg.jpg": "/static/media/egg.2820964dc9406cab06fa.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.8537fe08.css.map": "/static/css/main.8537fe08.css.map",
+    "main.f01776ea.js.map": "/static/js/main.f01776ea.js.map",
+    "787.8227fffd.chunk.js.map": "/static/js/787.8227fffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8537fe08.css",
+    "static/js/main.f01776ea.js"
+  ]
+}
